@@ -19,5 +19,3 @@ rainbow_fish <- function(fish_name, city, fish_scales) {
 
 }
 
-
-
